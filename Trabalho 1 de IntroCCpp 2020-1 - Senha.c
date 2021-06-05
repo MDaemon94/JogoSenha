@@ -27,7 +27,7 @@ int main(void){
     printf("|2: O jogador tera que digitar um numero de cada vez da sua tentativa de senha;         |\n");
     printf("|3: Apos a tentativa de senha, o jogo retornara a analise da senha da seguinte forma:   |\n");
     printf("|          O jogo retornara um frase dizendo primeiro quantos numeros estao na posicao  |\n");
-    printf("|          correta, e depois quantos números apenas existem na sequencia;               |\n");
+    printf("|          correta, e depois quantos numeros apenas existem na sequencia;               |\n");
     printf("|4: O jogador vencera caso descubra a senha dentro do numero de tentativas.             |\n");
     printf("\n");
     printf("                                      (SENHA)\n");
